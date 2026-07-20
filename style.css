@@ -4,10 +4,14 @@
   box-sizing: border-box;
   font-family: Arial, sans-serif;
 }
-body {
+/* body {
   background: #a4b38b;
+} */
+body{
+    background:
+        linear-gradient(rgba(0,0,0,.25), rgba(0,0,0,.25)),
+        url("photo_2026-07-20_13-10-48.jpg") center/cover no-repeat;
 }
-
 
 .app {
   min-height: 100dvh;
