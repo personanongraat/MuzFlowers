@@ -33,15 +33,20 @@ opacity:1;
 }
 .app{
 
-    position:relative;
-    z-index:2;
+min-height:100dvh;
+
+display:flex;
+flex-direction:column;
+
+padding:clamp(1rem,3vw,2rem);
 
 }
+
 .top{
 
-    width:min(90%,70rem);
-
-    margin:0 auto;
+display:flex;
+justify-content:space-between;
+align-items:center;
 
 }
 h1{
