@@ -55,7 +55,7 @@ font-size:clamp(2rem,5vw,3rem);
 }
 .top h1,
 .top .tel{
-    font-size:clamp(2rem,4vw,3rem);
+    font-size:clamp(1,5rem,5vw,2,5rem);
 }
 
 .top .tel{
