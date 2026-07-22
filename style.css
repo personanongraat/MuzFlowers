@@ -49,19 +49,21 @@ justify-content:space-between;
 align-items:center;
 
 }
-h1{
-font-size:clamp(1,5rem,5vw,2,5rem);
+/* h1{
+font-size:clamp(2rem,5vw,3rem);
 
-}
+} */
 .top h1,
 .top .tel{
-    font-size:clamp(1,5rem,5vw,2,5rem);
+    font-size:clamp(2rem,5vw,3rem);
 }
 
 .top .tel{
     color:#fff;
     text-decoration:none;
     font-weight:700;
+    font-size:clamp(2rem,5vw,2,5rem);
+    
 }
 main{
 flex:1;
