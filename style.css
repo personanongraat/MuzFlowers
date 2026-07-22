@@ -107,7 +107,7 @@ background:#0077FF;
 .background-slider img{
 object-fit:contain;
 }
-.top .tel{
+.top {
 max-width:70rem;
 width:50%;
 margin:auto;
