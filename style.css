@@ -103,12 +103,12 @@ object-fit:contain;
 }
 .top{
 max-width:70rem;
-width:100%;
+width:50%;
 margin:auto;
 }
 main{
 max-width:70rem;
-width:50%;
+width:100%;
 margin:auto;
 }
 .links{
