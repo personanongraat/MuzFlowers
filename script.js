@@ -1,13 +1,12 @@
-const slides = document.querySelectorAll(".background-slider img");
-
-let current = 0;
-
 setInterval(() => {
 
-slides[current].classList.remove("active");
+    const next = (current + 1) % slides.length;
 
-current = (current + 1) % slides.length;
+    slides[next].classList.add("active");
 
-slides[current].classList.add("active");
+    setTimeout(() => {
+        slides[current].classList.remove("active");
+        current = next;
+    }, 800);
 
 },3000);
