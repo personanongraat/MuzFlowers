@@ -51,13 +51,11 @@ align-items:center;
 }
 h1{
 font-size:clamp(2rem,5vw,3rem);
-}
-.tel{
-  font-size:clamp(2rem,5vw,3rem);
+
 }
 .top h1,
 .top .tel{
-    font-size:clamp(2rem,5vw,3rem);
+    font-size:clamp(.9rem,2vw,1.2rem);
 }
 
 .top .tel{
