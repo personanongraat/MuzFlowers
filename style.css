@@ -62,7 +62,7 @@ font-size:clamp(2rem,5vw,3rem);
     color:#fff;
     text-decoration:none;
     font-weight:700;
-    font-size:clamp(1,5rem,5vw,2rem);
+    font-size:clamp(1,5rem,5vw,1,5rem);
     
 }
 main{
