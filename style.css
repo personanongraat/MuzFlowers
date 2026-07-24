@@ -101,14 +101,17 @@ font-weight:bold;
 color:white;
 backdrop-filter:blur(6px);
 }
-.tg{
-background:#229ED9;
+.tg {
+  background: #229ed9;
 }
-.max{
-background:#e1306c;
+.instagram {
+  background: #e1306c;
 }
-.vk{
-background:#0077FF;
+.vk {
+  background: #0077ff;
+}
+.max {
+  background:#6C5CE7;
 }
 @media (min-width:768px){
 .background-slider img{
