@@ -41,6 +41,10 @@ flex-direction:column;
 padding:clamp(1rem,3vw,2rem);
 
 }
+.tel{
+    margin-bottom: 30px;
+}
+}
 
 .top{
 
